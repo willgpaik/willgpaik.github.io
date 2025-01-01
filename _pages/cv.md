@@ -70,6 +70,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
  
-Resume
-=====
-[Ghanghoon Paik Resume](../files/Ghanghoon_Paik_resume.pdf)
+[//]: Resume
+[//]: =====
+[//]: [Ghanghoon Paik Resume](../files/Ghanghoon_Paik_resume.pdf)
