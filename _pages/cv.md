@@ -28,7 +28,7 @@ Work experience
 
 Research and Competition experience
 ======
-* 4D LiDAR Development & Optimization for SLAM
+* 4D LiDAR Development & Optimization for SLAM (2024 - 2025)
     * Pennsylvania State University
     * Duties included: Develop and optimize 4D LiDAR for SLAM, improved sensor calibration, and created a ROS 2 simulation environment for testing and validation
     * PI: Dr. Roshan Eapen
