@@ -17,7 +17,10 @@ Education
 
 Work experience
 =====
-* HPC Software Consultant (Jan. 2017 - present)
+* HPC Machine Learning Performance Engineer (Jan. 2025 - present)
+    * Research Computing at Northeastern University
+
+* HPC Software Consultant (Jan. 2017 - Dec. 2024)
     * Institute for Computational Data and Sciences at Penn State
 
 * Parallel Computing Support Application Engineer (Jun. 2021 - Aug. 2021)
@@ -25,6 +28,11 @@ Work experience
 
 Research and Competition experience
 ======
+* 4D LiDAR Development & Optimization for SLAM
+    * Pennsylvania State University
+    * Duties included: Develop and optimize 4D LiDAR for SLAM, improved sensor calibration, and created a ROS 2 simulation environment for testing and validation
+    * PI: Dr. Roshan Eapen
+
 * 2022 NIST First Responder UAS Indoor Challenge (2022)
     * Team: TK6
     * Rewards: 3rd place + First responder's choice (Prize: $80,000)
@@ -34,7 +42,7 @@ Research and Competition experience
 * Interactive and Collaborative Robot Assist Project (2022)
     * Pennsylvania State University (Robot Ethics and Aerial Vehicles Lab)
     * Duties included: Design and build robots and research models to evaluate human behavior in simulated environments
-    * Supervisor: Dr. Alan Wagner
+    * PI: Dr. Alan Wagner
 
 * 29th and 30th Annual Intelligent Ground Vehicle Competition (2022 and 2023)
     * Team: Autonomous Robotics Competition Club (Pennsylvania State University)
