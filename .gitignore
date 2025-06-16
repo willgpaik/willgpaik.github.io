@@ -6,8 +6,13 @@ _site/
 local/
 
 # Ignore the Gemfile that is generated
+node_modules
 Gemfile.lock
 
 # Ingore files created by npm
 node_modules
 package-lock.json
+
+# Ignore the vendor file and bundle for alternative installation
+vendor/
+.bundle/

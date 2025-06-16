@@ -8,11 +8,12 @@
 
 # Basic Site Settings
 locale                   : "en-US"
+site_theme               : "default"
 title                    : "Ghanghoon Paik"
 title_separator          : "-"
 name                     : &name "Ghanghoon Paik"
 description              : &description "personal description"
-url                      : https://willgpaik.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://willgpaik.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "willgpaik/willgpaik.github.io"
 
@@ -28,16 +29,17 @@ author:
   location         : "State College, PA"
   employer         : #"Pennsylvania State University"
   uri              : # URL
-  email            : "ghanghoonp@gmail.com" 
+  email            : "ghanghoonp@gmail.com"
 
   # Academic websites
+  academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=AV4ZtiwAAAAJ&hl=en"
   impactstory      : # URL
   orcid            : "https://orcid.org/0009-0008-5701-3175 "
   semantic         : # URL
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : https://www.researchgate.net/profile/Ghanghoon-Paik
+  researchgate     : "https://www.researchgate.net/profile/Ghanghoon-Paik"
   scopus           : # URL
 
   # Repositories and software development
@@ -58,7 +60,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : ghanghoon-paik-88464649
+  linkedin         : "ghanghoon-paik-88464649"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -82,8 +84,6 @@ publication_category:
     title: 'Journal Articles'    
   conferences:
     title: 'Conference Papers'
-  thesis:
-    title: 'Thesis or Dissertation'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -91,7 +91,7 @@ breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
-talkmap_link             : false #change to true to add link to talkmap on talks page
+talkmap_link             : false      #change to true to add link to talkmap on talks page
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
@@ -137,7 +137,8 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Open Graph/Twitter default site image
+og_image                 :  # Social media default site image
+og_description           :  # Social media default site image description
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -304,6 +305,7 @@ plugins:
   - jekyll-gist
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-redirect-from
   - jemoji
 
 # Mimic GitHub Pages with --safe
@@ -312,6 +314,7 @@ whitelist:
   - jekyll-gist
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-redirect-from
   - jemoji
 
 
@@ -350,3 +353,4 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+

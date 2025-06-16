@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Aerospace Engineering, Pennsylvania State University, 2024
+* Ph.D. in Aerospace Engineering, Pennsylvania State University, 2024
 * M.S. in Aerospace Engineering, Pennsylvania State University, 2015
 * B.S. in Aerospace Engineering, Pennsylvania State University, 2013
 
@@ -62,9 +62,15 @@ Research and Competition experience
 Skills
 ======
 * Languages:
-    * C/C++, Python, MATLAB
-* Tools:
-    * OpenMP, MPI, PyTorch, Git, ROS, Docker
+    * C/C++, Python, MATLAB, CUDA
+* HPC:
+    * MPI, OpenMP, Singularity, Docker, SLURM, Git
+* AI/ML:
+    * PyTorch, Deep Reinforcement Learning
+* Robotics:
+    * ROS, OpenCV, Embedded Systems
+* Astrodynamics:
+    * Trajectory Optimization, Gravity Assist, Mission Planning
 
 Publications
 ======

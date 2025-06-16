@@ -9,7 +9,7 @@ redirect_from:
 
 Note: Currently, I'm searching for a full time position in astrodynamics, software enginering, or robotics.
 
-Hi! I'm Ghanghoon "Will" Paik, a researcher and engineer specializing in astrodynamics and high-performance computing. My PhD work at Penn State University focused on developing automated mission planning software for multiple gravity assist trajectory design. I combined advanced mathematical modeling, heuristic optimization, and N-body dynamics to create tools that improve the efficiency of interplanetary missions.
+Hi! I'm Ghanghoon "Will" Paik, a researcher and engineer specializing in astrodynamics and high performance computing. My PhD work at Penn State University focused on developing automated mission planning software for multiple gravity assist trajectory design. I combined advanced mathematical modeling, heuristic optimization, and N-body dynamics to create tools that improve the efficiency of interplanetary missions.
 
 Throughout my career, I’ve contributed to projects at the cutting edge of aerospace and robotics, including designing autonomous vehicles, optimizing quadcopter systems for emergency scenarios, and creating high-performance computing tools to enhance system efficiency. My work has been recognized in international competitions, such as the ESA Global Trajectory Optimization Competition and the NIST First Responder UAS Indoor Challenge.
 
@@ -31,7 +31,7 @@ I’ve been deeply involved in designing and developing autonomous systems for b
 
 Beyond aerial systems, I’ve led efforts in autonomous ground vehicles, including implementing pathfinding algorithms, real-time obstacle avoidance, and vision-based navigation for competition-grade platforms. My work has been recognized at the Intelligent Ground Vehicle Competition and the VFS Design-Build-Vertical Flight Student Competition.
 
-High-Performance Computing (HPC)
+High Performance Computing (HPC)
 -----
 I bring extensive experience in HPC, from optimizing computational tools for aerospace applications to providing user support and systems analysis for research clusters. My work has included developing system monitoring tools, optimizing parallelized code, and contributing to the Singularity Hub with public containerized environment projects.
 
@@ -39,4 +39,4 @@ I am passionate about integrating advanced computational techniques with innovat
 
 My Background
 ======
-I hold a PhD in Aerospace Engineering from Penn State University, where my research focused on multiple gravity assist trajectory planning and optimization. With a strong foundation in astrodynamics, robotics, and high-performance computing, I have contributed to projects ranging from interplanetary mission planning to autonomous vehicle design. My work has been recognized in multiple competitions, and I am dedicated to advancing innovative solutions in aerospace and computational engineering.
+I hold a PhD in Aerospace Engineering from Penn State University, where my research focused on multiple gravity assist trajectory planning and optimization. With a strong foundation in astrodynamics, robotics, and high performance computing, I have contributed to projects ranging from interplanetary mission planning to autonomous vehicle design. My work has been recognized in multiple competitions, and I am dedicated to advancing innovative solutions in aerospace and computational engineering.
