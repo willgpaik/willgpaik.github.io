@@ -3,7 +3,7 @@ title: "Multiple Gravity-Assist Trajectory Design with Continuous-Thrust Synerge
 collection: publications
 category: thesis
 permalink: /publication/2024-dissertation
-excerpt: 'This paper is a Ph.D dissertation'
+excerpt: ''
 date: 2024-05-01
 venue: 'Ph.D Dissertation'
 paperurl: 'https://etda.libraries.psu.edu/catalog/22928gip5038'

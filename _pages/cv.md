@@ -9,68 +9,86 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D. in Aerospace Engineering, Pennsylvania State University, 2024
-* M.S. in Aerospace Engineering, Pennsylvania State University, 2015
-* B.S. in Aerospace Engineering, Pennsylvania State University, 2013
 
-Work experience
+Professional Experience
 =====
-* HPC Machine Learning Performance Engineer (Jan. 2025 - present)
-    * Research Computing at Northeastern University
+* HPC Machine Learning Performance Engineer  
+*Research Computing, Northeastern University* | Jan 2025 - Present
+    * Optimizing ML workloads on HPC clusters
+    * Performance analysis and benchmarking for AI/ML applications
+    * Supporting researchers with computational workflow optimization
 
-* HPC Software Consultant (Jan. 2017 - Dec. 2024)
-    * Institute for Computational Data and Sciences at Penn State
+* HPC Software Consultant  
+*Institute for Computational and Data Sciences, Penn State* | Jan 2017 - Dec 2024
+    * 8 years supporting 500+ researchers across multiple disciplines
+    * Cluster performance optimization and user support
+    * Developed containerized environments for reproducible research (Singularity Hub contributor)
+    * System monitoring, resource allocation, and job optimization
 
-* Parallel Computing Support Application Engineer (Jun. 2021 - Aug. 2021)
-    * MathWorks (internship)
+* Parallel Computing Support Application Engineer  
+*MathWorks* | Summer 2021 (Internship)
+    * Optimized parallel computing toolboxes for MATLAB
+    * Developed performance benchmarks for distributed computing
+    * Created documentation for HPC integration with MATLAB
 
-Research and Competition experience
-======
-* 4D LiDAR Development & Optimization for SLAM (2024 - 2025)
-    * Pennsylvania State University
-    * Duties included: Develop and optimize 4D LiDAR for SLAM, improved sensor calibration, and created a ROS 2 simulation environment for testing and validation
-    * PI: Dr. Roshan Eapen
+Technical Expertise
+=====
+* HPC and Infrastructure
+    * **Schedulers**: Slurm, PBS (Job arrays, dependency chains, resource optimization)
+    * **Parallel Computing**: MPI (OpenMPI, Intel MPI), OpenMP, CUDA
+    * **Storage Systems**: NFS, parallel filesystems, data management strategies
+    * **Containerization**: Singularity/Apptainer, Docker for HPC environments
+    * **Automation**: Ansible playbooks, bash scripting, system provisioning
+    * **Monitoring**: Performance metrics, resource utilization analysis
 
-* 2022 NIST First Responder UAS Indoor Challenge (2022)
-    * Team: TK6
-    * Rewards: 3rd place + First responder's choice (Prize: $80,000)
-    * Duties includes: Design and develop a custom built quadcopter for GPS denied indoor scenarios and emergency situations
+*  Software Development
+    * **Languages**: Python, C/C++, Fortran, MATLAB, Shell scripting
+    * **Version Control**: Git, GitLab CI/CD
+    * **Performance Tools**: Profiling, optimization, bottleneck analysis
+
+Projects & Competitions
+=====
+* Independent HPC Infrastructure Lab (2025 - Present)
+    * Multi-node cluster with automated deployment via Ansible
+    * Comparative analysis of scheduler configurations
+    * Cost-benefit modeling for small-scale HPC deployments
+    * Open-source tools for cluster management
+
+* 4D LiDAR SLAM Optimization (2024 - 2025)
+    * **Computational Focus**: Parallelized point cloud processing algorithms
+    * Optimized memory usage for large-scale sensor data
+    * ROS 2 simulation environment with distributed computing
+
+* NIST First Responder UAS Indoor Challenge (2022)
+    * Award: 3rd place + First responder's choice (Prize: $80,000)
+    * Design and develop a custom built quadcopter for GPS denied indoor scenarios and emergency situations
     * Website: [https://www.nist.gov/ctl/pscr/voxeltk6](https://www.nist.gov/ctl/pscr/voxeltk6)
 
 * Interactive and Collaborative Robot Assist Project (2022)
     * Pennsylvania State University (Robot Ethics and Aerial Vehicles Lab)
-    * Duties included: Design and build robots and research models to evaluate human behavior in simulated environments
-    * PI: Dr. Alan Wagner
+    * Design and build robots and research models to evaluate human behavior in simulated environments
 
 * 29th and 30th Annual Intelligent Ground Vehicle Competition (2022 and 2023)
-    * Team: Autonomous Robotics Competition Club (Pennsylvania State University)
-    * Duties included: Team lead, design and build autonomous ground vehicle that carries up to payload of 20 lbs
+    * Team lead, design and build autonomous ground vehicle that carries up to payload of 20 lbs
 
-* 2021 and 202 VFS Design-Build-Vertical Flight Student Competition (2021 and 2022)
-    * Team: Autonomous Robotics Competition Club (Pennsylvania State University)
-    * Rewards: 3rd place (2022), 1st place in preliminary reports + Best Computational Simulation Award (2021) (Prize: $500)
-    * Duties included: Design and build a quadcopter and simulations
+* VFS Design-Build-Vertical Flight Student Competition (2021 and 2022)
+    * Award: 3rd place (2022), 1st place in preliminary reports + Best Computational Simulation Award (2021) (Prize: $500)
+    * Design and build a quadcopter and simulations
     * Website: [https://news.engr.psu.edu/2022/vertical-flight-student-competition.aspx](https://news.engr.psu.edu/2022/vertical-flight-student-competition.aspx)
 
 * 9th and 10th ESA Global Trajectory Optimization Competition (2017 and 2019)
-    * Team: Astrodynamics Research Group of Penn State
-    * Duties included: Develop algorithms and simulations
+    * Developed parallel algorithms for complex trajectory optimization simulations
     * Website: [https://www.psu.edu/news/academics/story/penn-state-students-compete-solve-problem-trajectory-design](https://www.psu.edu/news/academics/story/penn-state-students-compete-solve-problem-trajectory-design)
-  
-Skills
-======
-* Languages:
-    * C/C++, Python, MATLAB, CUDA
-* HPC:
-    * MPI, OpenMP, Singularity, Docker, SLURM, Git
-* AI/ML:
-    * PyTorch, Deep Reinforcement Learning
-* Robotics:
-    * ROS, OpenCV, Embedded Systems
-* Astrodynamics:
-    * Trajectory Optimization, Gravity Assist, Mission Planning
+
+Education
+=====
+* PhD in Aerospace Engineering      Pennsylvania State University (2024)
+    * Dissertation: Multiple Gravity-Assist Trajectory Design with Continuous-Thrust Synergetic Maneuvers
+
+* MS in Aerospace Engineering       Pennsylvania State University (2015)
+    * Thesis: Optimal Orbit Raising Via Particle Swarm Optimization
+
+* BS in Aerospace Engineering       Pennsylvania State University (2013)
 
 Publications
 ======

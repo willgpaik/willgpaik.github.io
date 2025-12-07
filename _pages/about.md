@@ -7,36 +7,118 @@ redirect_from:
   - /about.html
 ---
 
-Note: Currently, I'm searching for a full time position in astrodynamics, software enginering, or robotics.
+Hi! I'm Ghanghoon "Will" Paik, an HPC machine learning performance engineer with 9 years of experience at Penn State and Northeastern University's research computing centers. I specialize in optimizing computational infrastructure and helping researchers maximize their computing efficiency. I hold a PhD in Aerospace Engineering from Penn State, where I developed high-performance algorithms for complex trajectory optimization problems.
 
-Hi! I'm Ghanghoon "Will" Paik, a researcher and engineer specializing in astrodynamics and high performance computing. My PhD work at Penn State University focused on developing automated mission planning software for multiple gravity assist trajectory design. I combined advanced mathematical modeling, heuristic optimization, and N-body dynamics to create tools that improve the efficiency of interplanetary missions.
+My work focuses on bridging traditional HPC with modern infrastructure approaches, particularly in making high-performance computing more accessible and cost effective for diverse research teams and computational projects.
 
-Throughout my career, I’ve contributed to projects at the cutting edge of aerospace and robotics, including designing autonomous vehicles, optimizing quadcopter systems for emergency scenarios, and creating high-performance computing tools to enhance system efficiency. My work has been recognized in international competitions, such as the ESA Global Trajectory Optimization Competition and the NIST First Responder UAS Indoor Challenge.
-
-Whether I’m tackling complex algorithms or designing practical solutions, I aim to bridge theory and application in every project I undertake.
-
-
-My Work and Research
+Professional Focus
 ======
 
-My work lies at the intersection of astrodynamics, robotics, and high-performance computing, focusing on solving complex problems in aerospace engineering and beyond.
+* High-Performance Computing and Infrastructure
+I work with large-scale research computing environments, optimizing performance and designing solutions for computational challenges. My experience encompasses:
 
-Astrodynamics and Space Mission Planning
------
-My research has advanced the field of trajectory optimization, particularly for multiple gravity assist missions. I developed automated mission planning software that leverages numerical solvers, graph search algorithms, and parallel computing techniques to design time- and fuel-efficient trajectories for interplanetary missions.
+    * System Architecture & Management
+        * Performance tuning and optimization for HPC clusters
+        * Resource scheduling with Slurm and job optimization strategies
+        * Distributed storage systems and high-speed interconnects
+        * User support and computational workflow optimization
 
-Robotics and Autonomous Systems
------
-I’ve been deeply involved in designing and developing autonomous systems for both ground and aerial platforms. As part of the NIST First Responder UAS Indoor Challenge, my team earned the First Responder’s Choice award and a top-three finish. I designed a custom-built quadcopter for GPS-denied indoor environments, integrating advanced sensor systems and high-speed Wi-Fi telemetry for reliable performance in emergency scenarios.
+    * Infrastructure Automation and Deployment
+        * Ansible playbooks for cluster configuration and management
+        * Container environments with Singularity/Apptainer for reproducible research
+        * System monitoring and performance metrics collection
+        * Infrastructure as Code approaches for research computing
 
-Beyond aerial systems, I’ve led efforts in autonomous ground vehicles, including implementing pathfinding algorithms, real-time obstacle avoidance, and vision-based navigation for competition-grade platforms. My work has been recognized at the Intelligent Ground Vehicle Competition and the VFS Design-Build-Vertical Flight Student Competition.
+    * Emerging Technologies
+        * Kubernetes orchestration for containerized HPC workloads
+        * Hybrid cloud architectures for burst computing
+        * Cost-benefit analysis of on-premises vs cloud solutions
+        * Modern DevOps practices in research computing environments
 
-High Performance Computing (HPC)
------
-I bring extensive experience in HPC, from optimizing computational tools for aerospace applications to providing user support and systems analysis for research clusters. My work has included developing system monitoring tools, optimizing parallelized code, and contributing to the Singularity Hub with public containerized environment projects.
+* Computational Science Applications  
+My computational background spans multiple domains:  
 
-I am passionate about integrating advanced computational techniques with innovative engineering solutions to address challenges in aerospace, robotics, and HPC.
+    * Algorithm Development and Optimization  
+        * Parallel computing strategies for N-body simulations
+        * Memory optimization for large-scale problems
+        * Numerical methods for trajectory optimization
+        * Performance profiling and bottleneck analysis
 
-My Background
+    * Research Computing Support
+        * Helping researchers translate algorithms to HPC environments
+        * Code optimization and parallelization strategies
+        * Workflow design for computational pipelines
+        * Best practices for scalable scientific computing
+
+Current Projects
+=====
+
+* Infrastructure Development Lab  
+I maintain an independent HPC infrastructure lab where I develop and test various configurations relevant to modern research computing:  
+
+    * Small-Scale HPC Reference Implementations  
+        * Multi-node cluster with head node and compute nodes
+        * NFS-based shared storage configurations
+        * Ansible-automated deployment and management
+        * Comparative analysis of different scheduler configurations
+
+    * Cost Optimization Studies  
+        * TCO models for small-to-medium HPC deployments
+        * Performance per dollar metrics across different architectures
+        * Cloud vs on-premises decision frameworks
+        * Resource utilization optimization strategies
+    
+    * Infrastructure Tools & Automation  
+        * Deployment scripts for common HPC configurations
+        * Monitoring and alerting solutions
+        * User management and quota systems
+        * Backup and disaster recovery strategies
+
+Technical Writing and Knowledge Sharing
+=====
+
+I'm developing a series of technical articles focused on practical HPC implementation:  
+
+<!--
+* Upcoming Topics:  
+    * Building cost-effective HPC clusters for small research teams
+    * Comparing Slurm, Kubernetes, and PBS for different workload types
+    * Practical guide to HPC storage: NFS, Lustre, and BeeGFS
+    * Ansible automation patterns for research computing
+    * Performance tuning strategies for common scientific applications
+    * Grant proposal infrastructure planning and budgeting
+-->
+
+* Contributing to the Community  
+    * Active contributor to Singularity Hub
+    * Technical documentation for HPC best practices
+    * Open-source tools for cluster management
+
+Background and Recognition
+=====
+
+* Education  
+    * PhD in Aerospace Engineering - Penn State University  
+        * Dissertation: A Mission Planning Technique for Low-Thrust Synergetic Gravity-Assist Missions 
+        *  Computational focus: High-performance algorithms for trajectory optimization
+
+* Professional Experience  
+    * HPC Machine Learning Performance Engineer - Northeastern University Research Computing (2025-Present)
+    * HPC Software Consultant - Penn State Institute for Computational and Data Sciences (2017-2024)
+
+* Competitive Achievements  
+    * **NIST First Responder UAS Indoor Challenge**: First Responder's Choice Award, Top 3 finish
+    * **Intelligent Ground Vehicle Competition**: Team lead for autonomous systems
+    * **VFS Design-Build-Vertical Flight Competition**: Recognition for innovative design
+    * **ESA Global Trajectory Optimization Competition**: Multiple participations
+
+* Technical Proficiencies  
+    * **HPC Technologies**: Slurm, PBS, SGE, OpenMPI, Intel MPI, module systems, job arrays, parallel filesystems
+    * **Infrastructure**: Linux administration, NFS, Ansible, monitoring (Nagios, Prometheus), virtualization (Proxmox), containerization (Singularity, Docker)
+    * **Development**: Python, C/C++, Fortran, MATLAB, shell scripting, parallel programming (MPI, OpenMP)
+    * **Cloud and Modern Tools**: Kubernetes basics, AWS/Azure familiarity, GitLab CI/CD, infrastructure as code concepts
+
+Get In Touch
 ======
-I hold a PhD in Aerospace Engineering from Penn State University, where my research focused on multiple gravity assist trajectory planning and optimization. With a strong foundation in astrodynamics, robotics, and high performance computing, I have contributed to projects ranging from interplanetary mission planning to autonomous vehicle design. My work has been recognized in multiple competitions, and I am dedicated to advancing innovative solutions in aerospace and computational engineering.
+
+I'm interested in discussing HPC infrastructure challenges, computational optimization strategies, and emerging technologies in research computing. Feel free to reach out for technical discussions or collaborations.

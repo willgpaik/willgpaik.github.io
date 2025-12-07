@@ -25,9 +25,9 @@ author:
   avatar           : "20140915_141910.png"
   name             : "Ghanghoon \"Will\" Paik"
   pronouns         : # example: "she/her"  
-  bio              : "Astrodynamics, software engineering, and computational science"
-  location         : "State College, PA"
-  employer         : #"Pennsylvania State University"
+  bio              : "High-performance computing, astrodynamics, software engineering, and computational science"
+  location         : "Ann Arbor, MI"
+  employer         : "Northeastern University"
   uri              : # URL
   email            : "ghanghoonp@gmail.com"
 

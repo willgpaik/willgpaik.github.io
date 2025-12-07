@@ -3,7 +3,7 @@ title: "GTOC 9: Results from the Astrodynamics Research Group of Penn State"
 collection: publications
 category: manuscripts
 permalink: /publication/2017-aiaa
-excerpt: 'This paper is about ESA GTOC 9'
+excerpt: ''
 date: 2018-01-01
 venue: 'Acta Futura'
 paperurl: 'https://zenodo.org/records/1139384'

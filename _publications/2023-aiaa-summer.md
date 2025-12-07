@@ -3,7 +3,7 @@ title: "Preliminary Sequencing Strategy for Synergetic Gravity-Assist Missions"
 collection: publications
 category: conferences
 permalink: /publication/2023-aiaa-summer
-excerpt: 'This paper is about Preliminary Sequencing Strategy for Synergetic Gravity-Assist Missions'
+excerpt: ''
 date: 2023-08-01
 venue: 'Astrodynamics Specialist Conference'
 paperurl: ''

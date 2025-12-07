@@ -3,7 +3,7 @@ title: "Learning evacuee models from robot-guided emergency evacuation experimen
 collection: publications
 category: manuscripts
 permalink: /publication/2023-arxiv
-excerpt: 'This paper is about Learning evacuee models from robot-guided emergency evacuation experiments'
+excerpt: ''
 date: 2023-06-01
 venue: 'arXiv'
 paperurl: 'https://arxiv.org/abs/2306.17824'

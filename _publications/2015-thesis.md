@@ -3,7 +3,7 @@ title: "Optimal Orbit Raising Via Particle Swarm Optimization"
 collection: publications
 category: thesis
 permalink: /publication/2015-thesis
-excerpt: 'This paper is a master''s thesis'
+excerpt: ''
 date: 2015-05-01
 venue: 'Masters Thesis'
 paperurl: 'https://etda.libraries.psu.edu/catalog/25366'

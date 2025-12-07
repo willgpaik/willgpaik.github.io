@@ -3,7 +3,7 @@ title: "Preliminary Sequencing Method for Multiple Garavity Assist with Low-Thru
 collection: publications
 category: conferences
 permalink: /publication/2023-aiaa-spring
-excerpt: 'This paper is about Preliminary Sequencing Method for Multiple Garavity Assist with Low-Thrust Synergetic Maneuvers'
+excerpt: ''
 date: 2023-01-01
 venue: 'Space Flight Mechanics Meeting'
 paperurl: ''
