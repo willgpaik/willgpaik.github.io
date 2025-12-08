@@ -37,7 +37,7 @@ Technical Expertise
     * **Schedulers**: Slurm, PBS (Job arrays, dependency chains, resource optimization)
     * **Parallel Computing**: MPI (OpenMPI, Intel MPI), OpenMP, CUDA
     * **Storage Systems**: NFS, parallel filesystems, data management strategies
-    * **Containerization**: Singularity/Apptainer, Docker for HPC environments
+    * **Containerization**: Singularity/Apptainer, Docker, Podman for HPC environments
     * **Automation**: Ansible playbooks, bash scripting, system provisioning
     * **Monitoring**: Performance metrics, resource utilization analysis
 

@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Ghanghoon "Will" Paik, an HPC machine learning performance engineer with 9 years of experience at Penn State and Northeastern University's research computing centers. I specialize in optimizing computational infrastructure and helping researchers maximize their computing efficiency. I hold a PhD in Aerospace Engineering from Penn State, where I developed high-performance algorithms for complex trajectory optimization problems.
+I'm Ghanghoon "Will" Paik, an HPC machine learning performance engineer with 9 years of experience at Penn State and Northeastern University's research computing centers. I specialize in optimizing computational infrastructure and helping researchers maximize their computing efficiency. I hold a PhD in Aerospace Engineering from Penn State, where I developed high-performance algorithms for complex trajectory optimization problems.
 
 My work focuses on bridging traditional HPC with modern infrastructure approaches, particularly in making high-performance computing more accessible and cost effective for diverse research teams and computational projects.
 
@@ -113,9 +113,9 @@ Background and Recognition
     * **ESA Global Trajectory Optimization Competition**: Multiple participations
 
 * Technical Proficiencies  
-    * **HPC Technologies**: Slurm, PBS, SGE, OpenMPI, Intel MPI, module systems, job arrays, parallel filesystems
-    * **Infrastructure**: Linux administration, NFS, Ansible, monitoring (Nagios, Prometheus), virtualization (Proxmox), containerization (Singularity, Docker)
-    * **Development**: Python, C/C++, Fortran, MATLAB, shell scripting, parallel programming (MPI, OpenMP)
+    * **HPC Technologies**: Slurm, PBS, OpenMPI, Intel MPI, module systems, job arrays, parallel filesystems
+    * **Infrastructure**: Linux administration, NFS, Ansible, monitoring (Prometheus), virtualization (Proxmox), containerization (Singularity, Docker, Podman)
+    * **Development**: Python, C/C++, MATLAB, shell scripting, parallel programming (MPI, OpenMP), CUDA
     * **Cloud and Modern Tools**: Kubernetes basics, AWS/Azure familiarity, GitLab CI/CD, infrastructure as code concepts
 
 Get In Touch

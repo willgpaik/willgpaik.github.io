@@ -1,61 +1,61 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Ghanghoon Paik",
+    "email": "ghanghoonp@gmail.com",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://willgpaik.github.io",
+    "summary": "High-performance computing, astrodynamics, software engineering, and computational science",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
+      "city": "Boston",
       "countryCode": "US",
-      "region": ""
+      "region": "MA"
     },
     "profiles": [
       {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "url": "https://scholar.google.com/citations?user=AV4ZtiwAAAAJ&hl=en"
       },
       {
         "network": "ORCID",
         "username": "",
-        "url": "https://orcid.org/yourorcidurl"
+        "url": "https://orcid.org/0009-0008-5701-3175"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "willgpaik",
+        "url": "https://willgpaik.github.io/"
       }
     ]
   },
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "The Pennsylvania State University",
+      "area": "Ph.D in Aerospace Engineering",
       "studyType": "",
       "startDate": "",
-      "endDate": "2018",
+      "endDate": "2024",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "The Pennsylvania State University",
+      "area": "M.S. in Aerospace Engineering",
       "studyType": "",
       "startDate": "",
-      "endDate": "2014",
+      "endDate": "2015",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
+      "institution": "The Pennsylvania State University",
+      "area": "B.S. in Aerospace Engineering",
       "studyType": "",
       "startDate": "",
-      "endDate": "2012",
+      "endDate": "2013",
       "gpa": null,
       "courses": []
     }
@@ -66,35 +66,84 @@
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "Learning evacuee models from robot-guided emergency evacuation experiments",
+      "publisher": "arXiv",
+      "releaseDate": "2023",
+      "website": "https://arxiv.org/abs/2306.17824",
+      "summary": 
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
+      "name": "GTOC 9: Results from the Astrodynamics Research Group of Penn State",
+      "publisher": "Acta Futura",
+      "releaseDate": "2018",
+      "website": "https://zenodo.org/records/1139384",
+      "summary": 
     },
     {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
+      "name": "Extending the Tisserand Graph Method for Powered Gravity Assist Trajectories",
+      "publisher": "Astrodynamics Specialist Conference",
+      "releaseDate": "2025-08",
+      "website": ,
+      "summary": 
     },
     {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "A Mission Planning Technique for Low-Thrust Synergetic Gravity-Assist Missions",
+      "publisher": "Astrodynamics Specialist Conference",
+      "releaseDate": "2024-08",
+      "website": ,
+      "summary": 
+    },
+    {
+      "name": "Characterizing Evacuee Behavior During a Robot-Guided Evacuation",
+      "publisher": "IEEE International Symposium on Safety, Security, and Rescue Robotics (SSRR)",
+      "releaseDate": "2023",
+      "website": "https://arxiv.org/abs/2306.17824",
+      "summary":
+    },
+    {
+      "name": "Preliminary Sequencing Strategy for Synergetic Gravity-Assist Missions",
+      "publisher": "Astrodynamics Specialist Conference",
+      "releaseDate": "2023-08",
+      "website": ,
+      "summary":
+    },
+    {
+      "name": "Preliminary Sequencing Method for Multiple Garavity Assist with Low-Thrust Synergetic Maneuvers",
+      "publisher": "Space Flight Mechanics Meeting",
+      "releaseDate": "2023-01",
+      "website": ,
+      "summary":
+    },
+    {
+      "name": "Preliminary Trajectory Design Method for Continuous Thrust Synergetic Maneuvers for Planetary Flybys",
+      "publisher": "Astrodynamics Specialist Conference",
+      "releaseDate": "2022-08",
+      "website": "https://willgpaik.github.io/files/aas22-su.pdf",
+      "summary":
+    },
+    {
+      "name": "Evaluation of Low-Thrust Synergetic Maneuvers During Planetary Flybys",
+      "publisher": "Astrodynamics Specialist Conference",
+      "releaseDate": "2021-08",
+      "website": "https://willgpaik.github.io/files/aas21-su.pdf",
+      "summary":
+    },
+    {
+      "name": "Low-Thrust Multiple Gravity Assist Missions",
+      "publisher": "Astrodynamics Specialist Conference",
+      "releaseDate": "2020-08",
+      "website": "https://willgpaik.github.io/files/aas20.pdf",
+      "summary":
+    },
+    {
+      "name": "The Astrodynamics Research Group of Penn State (ARGoPS) Solution to the 2017 Astrodynamics Specialist Conference Student Competition",
+      "publisher": "Astrodynamics Specialist Conference",
+      "releaseDate": "2017-08",
+      "website": "https://www.researchgate.net/publication/323256882_The_Astrodynamics_Research_Group_of_Penn_State_ARGoPS_Solution_to_the_2017_Astrodynamics_Specialist_Conference_Student_Competition",
+      "summary":
     }
   ],
-  "presentations": [
+  "//presentations": [
     {
       "name": "Talk 1 on Relevant Topic in Your Field",
       "event": "UC San Francisco, Department of Testing",
@@ -126,21 +175,21 @@
   ],
   "teaching": [
     {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
+      "course": "AERSP 313: Aerospace Analysis",
+      "institution": "Penn State, Department of Aerospce Engineering",
+      "date": "2016",
       "role": "Undergraduate course",
       "description": ""
     },
     {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
+      "course": "CMPSC 200: Programming for Engineers with MATLAB",
+      "institution": "Penn State, Department of Computer Science and Engineering",
+      "date": "2015",
+      "role": "Undergraduate course",
       "description": ""
     }
   ],
-  "portfolio": [
+  "//portfolio": [
     {
       "name": "Portfolio item number 1",
       "category": "portfolio",
